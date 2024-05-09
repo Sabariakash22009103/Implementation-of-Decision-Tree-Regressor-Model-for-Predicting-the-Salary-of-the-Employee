@@ -55,6 +55,7 @@ plt.show()
 <img src=image-3.png width=200 height=300>
 <img src=image-4.png width=200 height=100>
 <img src=image-5.png width=200 height=100>
+<br>
 
 ## Result:
 Thus the program to implement the Decision Tree Regressor Model for Predicting the Salary of the Employee is written and verified using python programming.
