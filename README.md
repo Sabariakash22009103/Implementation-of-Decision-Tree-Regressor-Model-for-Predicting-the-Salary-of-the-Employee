@@ -2,22 +2,17 @@
 <h2>Exp: 07</h2>
 
 # Implementation of Decision Tree Regressor Model for Predicting the Salary of the Employee
-
 ## AIM:
 To write a program to implement the Decision Tree Regressor Model for Predicting the Salary of the Employee.
-
 ## Equipments Required:
 1. Hardware – PCs
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
-
 ## Algorithm
 1. import libraries
 2. read csv file
 3. Find the values for MSE MAE and R-SQUARE
 4. Print and end the program
-
 ## Program:
-
 Program to implement the Decision Tree Regressor Model for Predicting the Salary of the Employee.
 
 Developed by: Sabari Akash A
