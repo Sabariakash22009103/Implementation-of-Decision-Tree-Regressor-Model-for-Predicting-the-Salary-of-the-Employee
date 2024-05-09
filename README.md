@@ -1,4 +1,7 @@
-# Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee
+<h3>Date:</h3>
+<h2>Exp: 07</h2>
+
+# Implementation of Decision Tree Regressor Model for Predicting the Salary of the Employee
 
 ## AIM:
 To write a program to implement the Decision Tree Regressor Model for Predicting the Salary of the Employee.
@@ -10,8 +13,8 @@ To write a program to implement the Decision Tree Regressor Model for Predicting
 ## Algorithm
 1. import libraries
 2. read csv file
-3. 
-4. 
+3. Find the values for MSE MAE and R-SQUARE
+4. Print and end the program
 
 ## Program:
 
@@ -51,11 +54,12 @@ plot_tree(dt,feature_names=x.columns,filled=True)
 plt.show()
 ```
 ## Output:
-![output](image.png)
-![output](image-1.png)
-![output](image-2.png)
-![output](image-3.png)
-![output](image-4.png)
-![output](image-5.png)
+<img src=image.png width=300 height=300>
+<img src=image-1.png width=300 height=300>
+<img src=image-2.png width=200 height=100>
+<img src=image-3.png width=200 height=300>
+<img src=image-4.png width=200 height=100>
+<img src=image-5.png width=200 height=100>
+
 ## Result:
 Thus the program to implement the Decision Tree Regressor Model for Predicting the Salary of the Employee is written and verified using python programming.
