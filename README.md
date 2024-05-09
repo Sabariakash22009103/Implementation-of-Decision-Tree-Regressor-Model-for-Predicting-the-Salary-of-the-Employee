@@ -52,9 +52,9 @@ plt.show()
 <img src=image.png width=300 height=300>
 <img src=image-1.png width=300 height=300>
 <img src=image-2.png width=200 height=100>
-<img src=image-3.png width=200 height=300>
-<img src=image-4.png width=200 height=100>
-<img src=image-5.png width=200 height=100>
+<img src=image-3.png width=400 height=300>
+<img src=image-4.png width=300 height=200>
+<img src=image-5.png width=300 height=200>
 <br>
 
 ## Result:
