@@ -49,12 +49,12 @@ plot_tree(dt,feature_names=x.columns,filled=True)
 plt.show()
 ```
 ## Output:
-<img src=image.png width=300 height=300>
-<img src=image-1.png width=300 height=300>
-<img src=image-2.png width=200 height=100>
-<img src=image-3.png width=200 height=300>
-<img src=image-4.png width=200 height=100>
-<img src=image-5.png width=200 height=100>
+<img src=image.png width=300 height=300><br>
+<img src=image-1.png width=300 height=300><br>
+<img src=image-2.png width=200 height=100><br>
+<img src=image-3.png width=200 height=300><br>
+<img src=image-4.png width=200 height=100><br>
+<img src=image-5.png width=200 height=100><br>
 
 ## Result:
 Thus the program to implement the Decision Tree Regressor Model for Predicting the Salary of the Employee is written and verified using python programming.
